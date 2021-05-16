@@ -1,0 +1,38 @@
+.navbar {
+  width: 100%;
+  background-color: #557696e7;
+}
+
+body{
+  background-image: url('https://s3.envato.com/files/ea3cd6ac-d226-4f4f-a5fc-86aa6d94acd7/inline_image_preview.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+* {
+  font-family: "Farro", sans-serif;
+  color: rgb(115, 151, 175);
+}
+
+.pass{
+  color: aliceblue;
+}
+
+.navbar-nav {
+  margin-left: 5%;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.1rem;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #f5e51b;
+  font-weight: bolder;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: whitesmoke;
+}
+
